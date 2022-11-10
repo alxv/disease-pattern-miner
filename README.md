@@ -23,7 +23,7 @@ The demand for extensive data collections and pre-processing of those collection
 ## Installation
 
 - Please make sure R and Rstudio installed.
-- Clone the copy of this repository
+- Clone this repository
 - Extract the contents
 - Open ui.R and server.R using Rstudio.
 - Install required libraries
@@ -36,6 +36,6 @@ GNU LGPLv3
 
 - Interactive web App
 - Three algorithms (Apriori, cSpade and Serendip)
-- Larger volume of electronic health records could be processed.
+- Large volume of electronic health records could be processed.
 - View and download results
 
