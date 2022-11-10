@@ -1,0 +1,89 @@
+id,date,item
+ID_1,01/01/1920,chronic dermatitis eczema
+ID_2,01/01/1920,osteoarthritis excl spine
+ID_3,01/01/1921,asthma
+ID_4,16/11/1921,cerebralpalsy
+ID_5,01/01/1922,glaucoma
+ID_6,21/07/1922,hypertension
+ID_7,07/07/1923,asthma
+ID_8,02/01/1924,asthma
+ID_9,01/01/1925,learning disability
+ID_10,01/01/1925,psoriasis
+ID_8,23/06/1953,allergic and chronicrhinitis
+ID_3,01/01/1973,spondylosis
+ID_9,01/01/1980,obesity
+ID_2,01/01/1982,hypertension
+ID_1,01/01/1987,depression
+ID_9,01/01/1989,diverticual disease
+ID_9,01/01/1989,coronary heart disease
+ID_3,01/01/1989,osteoarthritis excl spine
+ID_2,06/07/1989,chronic pain
+ID_3,01/01/1992,diabetes
+ID_3,10/08/1994,chronic pain
+ID_6,04/11/1996,chronic pain
+ID_8,17/12/1996,chronic pain
+ID_1,17/08/1998,migraine
+ID_9,01/01/1999,glaucoma
+ID_9,01/01/1999,lipid disorder
+ID_8,10/02/1999,hearing loss
+ID_10,05/07/1999,rheumatoid arthritis
+ID_10,09/08/1999,chronic constipation
+ID_1,09/10/1999,chronic pain
+ID_9,01/01/2000,hypertension
+ID_8,06/03/2000,obesity
+ID_10,05/05/2000,cataract
+ID_10,02/10/2000,chronic pain
+ID_9,01/01/2001,cataract
+ID_10,20/08/2001,osteoporosis
+ID_9,01/01/2002,diabetes
+ID_9,01/01/2002,diabetic eye
+ID_1,10/04/2002,obesity
+ID_3,03/12/2002,lipid disorder
+ID_4,01/01/2003,cataract
+ID_8,01/04/2003,hypertension
+ID_1,10/11/2003,cataract
+ID_6,21/11/2003,psoriasis
+ID_3,08/12/2003,atrial fibrillation
+ID_4,30/04/2004,chronic pain
+ID_3,03/05/2006,hypertension
+ID_9,04/07/2006,chronic pain
+ID_3,01/09/2006,chronic kidney disease
+ID_6,27/09/2006,chronic kidney disease
+ID_1,21/12/2006,osteoarthritis excl spine
+ID_7,01/01/2007,gastritis and duodenitis
+ID_6,05/12/2007,renalstones
+ID_9,17/03/2008,chronic kidney disease
+ID_5,06/05/2008,chronic pain
+ID_8,01/07/2008,diabetes
+ID_7,01/01/2009,atrial fibrillation
+ID_5,07/04/2009,cataract
+ID_4,11/12/2009,chronic constipation
+ID_8,01/07/2010,chronic kidney disease
+ID_7,01/01/2011,diverticual disease
+ID_8,27/01/2011,chronic dermatitis eczema
+ID_6,03/06/2011,hearing loss
+ID_8,01/11/2011,osteoarthritis excl spine
+ID_2,19/12/2011,chronic kidney disease
+ID_1,02/03/2012,chronic kidney disease
+ID_5,01/05/2012,urinaryincontinence
+ID_5,01/05/2012,osteoarthritis excl spine
+ID_8,02/08/2012,atrial fibrillation
+ID_8,05/04/2013,diabetic eye
+ID_7,11/12/2013,thyroid problem
+ID_6,01/05/2014,urinary incontinence
+ID_5,14/11/2014,hearing loss
+ID_6,08/01/2015,dementia
+ID_6,01/12/2015,chronic constipation
+ID_1,03/02/2016,hypertension
+ID_6,02/03/2016,copd
+ID_7,29/04/2016,chronic kidney disease
+ID_7,28/09/2016,macular degeneration
+ID_7,09/01/2017,diabetes
+ID_2,03/06/2017,heart failure
+ID_7,06/11/2017,cataract
+ID_7,06/11/2017,glaucoma
+ID_1,05/04/2019,bronchiectasis
+ID_1,24/04/2019,diverticual disease
+ID_1,01/10/2019,osteoporosis
+ID_7,07/10/2019,chronic pain
+ID_7,10/12/2019,hearing loss

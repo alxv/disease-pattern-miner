@@ -1,0 +1,83 @@
+1;1;1;chronic dermatitis eczema
+1;13;1;depression
+1;20;1;migraine
+1;25;1;chronic pain
+1;33;1;obesity
+1;37;1;cataract
+1;45;1;osteoarthritis excl spine
+1;60;1;chronic kidney disease
+1;69;1;hypertension
+1;76;1;bronchiectasis
+1;77;1;diverticual disease
+1;78;1;osteoporosis
+2;8;1;psoriasis
+2;23;1;rheumatoid arthritis
+2;24;1;chronic constipation
+2;28;1;cataract
+2;29;1;chronic pain
+2;31;1;osteoporosis
+3;1;1;osteoarthritis excl spine
+3;12;1;hypertension
+3;15;1;chronic pain
+3;59;1;chronic kidney disease
+3;74;1;heart failure
+4;2;1;asthma
+4;10;1;spondylosis
+4;14;1;osteoarthritis excl spine
+4;16;1;diabetes
+4;17;1;chronic pain
+4;34;1;lipid disorder
+4;39;1;atrial fibrillation
+4;41;1;hypertension
+4;43;1;chronic kidney disease
+5;3;1;cerebralpalsy
+5;35;1;cataract
+5;40;1;chronic pain
+5;53;1;chronic constipation
+6;4;1;glaucoma
+6;49;1;chronic pain
+6;52;1;cataract
+6;61;2;urinaryincontinence,osteoarthritis excl spine
+6;66;1;hearing loss
+7;5;1;hypertension
+7;18;1;chronic pain
+7;38;1;psoriasis
+7;44;1;chronic kidney disease
+7;47;1;renalstones
+7;57;1;hearing loss
+7;65;1;urinary incontinence
+7;67;1;dementia
+7;68;1;chronic constipation
+7;70;1;copd
+8;6;1;asthma
+8;46;1;gastritis and duodenitis
+8;51;1;atrial fibrillation
+8;55;1;diverticual disease
+8;64;1;thyroid problem
+8;71;1;chronic kidney disease
+8;72;1;macular degeneration
+8;73;1;diabetes
+8;75;2;cataract,glaucoma
+8;79;1;chronic pain
+8;80;1;hearing loss
+9;7;1;asthma
+9;9;1;allergic and chronicrhinitis
+9;19;1;chronic pain
+9;22;1;hearing loss
+9;27;1;obesity
+9;36;1;hypertension
+9;50;1;diabetes
+9;54;1;chronic kidney disease
+9;56;1;chronic dermatitis eczema
+9;58;1;osteoarthritis excl spine
+9;62;1;atrial fibrillation
+9;63;1;diabetic eye
+10;8;1;learning disability
+10;11;1;obesity
+10;14;2;diverticual disease,coronary heart disease
+10;21;2;glaucoma,lipid disorder
+10;26;1;hypertension
+10;30;1;cataract
+10;32;2;diabetes,diabetic eye
+10;42;1;chronic pain
+10;48;1;chronic kidney disease
